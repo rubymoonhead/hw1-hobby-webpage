@@ -1,0 +1,68 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+  color: #283c63;
+  text-align: center;
+  margin-top:10px;
+	background-color: #fbe8d3
+}
+
+.topNav {
+	background-color: #928a97;
+	overflow: hidden;
+}
+
+.topNav a {
+	float: left;
+	color: #fbe8d3;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.topNav a:hover {
+  background-color: #f85f73;
+  color: #283c63;
+}
+
+h2 {
+	text-align:center;
+  margin-top:50px;
+  padding:0px;
+  text-shadow: 2px 3px 4px #3e4149;
+}
+
+footer {
+	text-align: center;
+	font-size: 15px;
+	background-color: #f85f73;
+	padding: 1%;
+	color: #fbe8d3;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.flex-container {
+  display: flex;
+	justify-content: center;
+}
+
+figure {
+	text-align: center;
+	border-radius: 5px;
+  box-shadow: 0 2px 4px 0 #283c63, 0 3px 10px 0 #283c63;
+}
+
+figcaption {
+	caption-side: top;
+}
+
+.books {
+	margin: 0px 250px 0px 250px;
+}
+
+.Bert, .Betty {
+	font-size: 14px;
+}
